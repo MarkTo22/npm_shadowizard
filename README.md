@@ -8,7 +8,7 @@ Get perfect shadows every time for the non-designer.
 
 Then...
 
-```
+```javascript
 import { shadowizard } from 'shadow_hz';
 
 shadowizard({
